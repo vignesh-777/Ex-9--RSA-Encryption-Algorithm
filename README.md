@@ -136,8 +136,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/a43cdc8d-900b-4459-a713-fdce323fef7e)
 
+![Screenshot 2024-11-06 101409](https://github.com/user-attachments/assets/b675a28f-5995-4010-8c00-ec66fc8c02de)
 
 
 ## Result:
